@@ -2,7 +2,7 @@
 
 | Termin oddania | Punkty     |
 |----------------|:-----------|
-|  18.11.2022 23:00    |    10      |
+|  17.11.2023 23:00    |    10      |
 
 --- 
 Przekroczenie terminu o **n** zajęć wiąże się z karą:
@@ -84,4 +84,4 @@ Wszystkie obiekty rejestru przechowuje w pamięci komputera w wybranej przez Cie
 
 ### Uwaga
 Projekt powinien również zawierać odpowiednie testy jednostkowe do implementowanej funkcjonalności.
-Wykorzystaj technikę Test Driven Design.
+Wykorzystaj technikę Test Driven Design. Zastosuj koncepcje z Clean Code i SOLID. 
